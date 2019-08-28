@@ -81,5 +81,5 @@ Do you like this plugin? Come on:
 
 [dein.vim]: https://github.com/Shougo/dein.vim
 [vim-plug]: https://github.com/junegunn/vim-plug
-[Gre]: https://github.com/wincent
+[Greg]: https://github.com/wincent
 [write this great feature]: https://github.com/wincent/wincent
